@@ -1,7 +1,8 @@
-Olá! Eu sou o Felipe
+<div align="center">
+  Olá! Eu sou o Felipe
 
-Atualmente cursando de ADS 📚🖤
-
+  Atualmente cursando de ADS 📚🖤
+</div>
 <div align="center">
   <a href="https://github.com/felipe5744">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipe5744&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -1,7 +1,7 @@
 <div align="center">
   Olá! Eu sou o Felipe
 
-  Atualmente cursando de ADS 📚🖤
+  Atualmente estou cursando ADS 📚🖤
 </div>
 <div align="center">
   <a href="https://github.com/felipe5744">

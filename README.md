@@ -2,6 +2,24 @@
   Olá! Eu sou o Felipe
   
   Cursando ADS 📚🖤
+<table>
+<tr><th>Projetos desenolvidos em:</th> <th>Contate-me</th></tr>
+<tr>
+<td>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109018-cc9a7ed6-31e8-4b48-a6b6-424ae0d71cff.png"></img>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109369-f65b72e9-b819-426b-a942-a075cc80d88c.png"></img>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109578-584bba0e-dc9b-457b-a85e-9f71061eeb0f.png"></img>
+</td>
+<td><a href="https://www.linkedin.com/in/felipe-pereira-20b70a205/">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a>
+<a href="felipep.silva5741@gmail.com">
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179118101-a9941dd3-ad47-4459-ad73-c3c17d4f9bb7.png"
+<a>
+</td>
+</tr>
+</table>
+
 </div>
 <div align="center">
   <a href="https://github.com/felipe5744">

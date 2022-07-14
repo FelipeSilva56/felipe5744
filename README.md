@@ -1,7 +1,11 @@
 <div align="center">
+<p>
   Olá! Eu sou o Felipe
-  
-  Cursando ADS 📚🖤
+<br> 
+ Cursando ADS 📚🖤
+<br>  
+<b>felipep.silva5741@gmail.com</b>
+<p>
 <table>
 <tr><th>Projetos desenolvidos em:</th> <th>Contate-me</th></tr>
 <tr>
@@ -12,9 +16,6 @@
 </td>
 <td><a href="https://www.linkedin.com/in/felipe-pereira-20b70a205/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a>
-<a href="felipep.silva5741@gmail.com">
-<img width="30px" src="https://user-images.githubusercontent.com/93503496/179118101-a9941dd3-ad47-4459-ad73-c3c17d4f9bb7.png"
 <a>
 </td>
 </tr>

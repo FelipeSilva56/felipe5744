@@ -1,12 +1,11 @@
-<div align="center">
-<p>
-  Olá! Eu sou o Felipe
-<br> 
- Cursando ADS 📚🖤
-<br>  
-<b>felipep.silva5741@gmail.com</b>
-<p>
-<table>
+
+### Olá! Sou o Felipe
+- Atualmente trabalho com suporte técnico
+- Cursando ADS  
+- <b>felipep.silva5741@gmail.com</b>
+
+</div>
+<table width="50px">
 <tr><th>Projetos desenolvidos em:</th> <th>Contate-me</th></tr>
 <tr>
 <td>
@@ -20,9 +19,8 @@
 </td>
 </tr>
 </table>
-
 </div>
-<div align="center">
+<div>
   <a href="https://github.com/felipe5744">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipe5744&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe5744&layout=compact&langs_count=7&theme=dark"/>
